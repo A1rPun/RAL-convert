@@ -1,0 +1,20 @@
+{
+  "name": "ral-convert",
+  "version": "0.0.1",
+  "description": "Convert a RAL code to a hex color or string (and vice-versa).",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A1rPun",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "webpack-cli": "^3.3.7"
+  },
+  "dependencies": {
+    "webpack": "^4.39.2"
+  }
+}
